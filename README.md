@@ -1,4 +1,4 @@
-# Cricket Player Performance Analysis Dashboard
+# T20-Best-XI-Analysis
 
 ## 📌 Project Overview  
 This project focuses on analyzing cricket player performances across different roles using **Power BI**. The data was **scraped from ESPN** 🏏, cleaned and processed using **Pandas** 🐍, and then visualized through an interactive **Power BI dashboard** 📊.  
