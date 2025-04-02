@@ -18,13 +18,15 @@ The dashboard provides insights into:
 ## 📸 Dashboard Preview  
 🖼![image alt](https://github.com/Kushal2025/T20-Best-XI-Analysis-/blob/43f2daf8f4f69056a567203f82ce2cf19f7603eb/Screenshot%20(86).png)
 ## 📂 Project Structure  
-- 📁 `data_scraping/` – Python scripts for scraping data  
-- 📁 `data_cleaning/` – Pandas scripts for cleaning and preprocessing  
-- 📊 `dashboard.pbix` – Power BI dashboard file  
+- 📁 `web_scrapping_codes/` – Python scripts for scraping data  
+- 📁 `t20_data_preprocessing/` – Pandas scripts for cleaning and preprocessing
+- 📁 `t20_csv_files/` – CSV Files
+- 📁 `t20_json_files/` – JSON files
+- 📊 `Cricket Best 11.pbix` – Power BI dashboard file  
 
 ## 🚀 How to Use  
 1. 🖥️ Clone the repository  
-2. 📂 Open `dashboard.pbix` in Power BI  
+2. 📂 Open `Cricket Best 11.pbix` in Power BI  
 3. 🔍 Explore the insights  
 
 Feel free to check out the project and leave feedback! 😊🎉  
