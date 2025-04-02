@@ -16,8 +16,7 @@ The dashboard provides insights into:
 - **Power BI** 📊 – For visualization and insights  
 
 ## 📸 Dashboard Preview  
-🖼️ [https://github.com/Kushal2025/T20-Best-XI-Analysis-/blob/43f2daf8f4f69056a567203f82ce2cf19f7603eb/Screenshot%20(86).png ](https://github.com/Kushal2025/T20-Best-XI-Analysis-/blob/main/Screenshot%20(86).png)
-
+🖼![image alt](https://github.com/Kushal2025/T20-Best-XI-Analysis-/blob/43f2daf8f4f69056a567203f82ce2cf19f7603eb/Screenshot%20(86).png)
 ## 📂 Project Structure  
 - 📁 `data_scraping/` – Python scripts for scraping data  
 - 📁 `data_cleaning/` – Pandas scripts for cleaning and preprocessing  
